@@ -5,6 +5,7 @@
 		<img src="header.svg" width="800" height="450">
 	</a>
 	<br>
+	<br>Wanna chat? :point_right: @ me on <a href="https://twitter.com/davidrhodus">Twitter</a> or hmu on <a href="https://www.linkedin.com/in/davidrhodus/">LinkedIn</a>
 </div>
 
 <!--
