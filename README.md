@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
 	<br>
-	<a href="https://github.com/davidrhodus/rust-stuff/master/header.svg">
+	<a href="https://github.com/davidrhodus/davidrhodus/master/header.svg">
 		<img src="header.svg" width="800" height="450">
 	</a>
 	<br>
