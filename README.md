@@ -1,12 +1,12 @@
 ### Hi there 👋
-<div align="center">
+<!-- <div align="center">
 	<br>
 	<a href="https://github.com/davidrhodus/davidrhodus/master/header.svg">
 		<img src="header.svg" width="800" height="450">
 	</a>
 	<br>
 
-</div>
+</div> -->
 
 <!--
 **davidrhodus/davidrhodus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
